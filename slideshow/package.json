@@ -1,0 +1,8 @@
+{
+  "name": "koncepciya-vystavki-slideshow",
+  "private": true,
+  "scripts": {
+    "dev": "npx hyperframes present ./composition",
+    "check": "npx hyperframes check ./composition"
+  }
+}
